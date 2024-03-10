@@ -1,0 +1,4 @@
+[submodule "ginDemo/third_party/dgm"]
+	path = ginDemo/third_party/dgm
+	url = git@github.com:a67793581/dgm.git
+	branch = master
